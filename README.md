@@ -84,4 +84,5 @@ Excited to contribute to backend-heavy projects, real-time systems, or full-stac
 📧 Email: [malakmhemdan@gmail.com](mailto:malakmhemdan@gmail.com)  
 💼 LinkedIn: [Malak M. Hemdan](https://www.linkedin.com/in/malak-m-hemdan-160b09318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 📂 GitHub: [MalakMHemdan](https://github.com/MalakMHemdan)
+
 *Building real-world systems one API at a time.*
