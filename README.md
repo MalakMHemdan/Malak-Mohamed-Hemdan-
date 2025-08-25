@@ -81,8 +81,8 @@ Excited to contribute to backend-heavy projects, real-time systems, or full-stac
 
 ## 🌐 Let's Connect
 
-- 📧 Email:[malakmhemdan@gmail.com](mailto:malakmhemdan@gmail.com)
-- 💼 LinkedIn:[Malak M. Hemdan](https://www.linkedin.com/in/malak-m-hemdan-160b09318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📂 GitHub؛[github.com/MalakMHemdan](https://github.com/MalakMHemdan)
+- 📧Email:[malakmhemdan@gmail.com](mailto:malakmhemdan@gmail.com)
+- 💼LinkedIn:[Malak M. Hemdan](https://www.linkedin.com/in/malak-m-hemdan-160b09318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📂GitHub؛[github.com/MalakMHemdan](https://github.com/MalakMHemdan)
 
 *Building real-world systems one API at a time.*
