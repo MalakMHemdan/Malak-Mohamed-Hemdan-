@@ -61,8 +61,8 @@ A Java-based system for faculty data management.
 Built foundational backend skills using C# and SQL Server
 
 🛠️ **Currently Learning & Improving:**  
-- .NET (ITI .NET in Minders)  
-- MEAN Stack (Node.js, Express, MongoDB, Angular)  
+- .NET (.NET in Minders)  
+- MEAN Stack (ITI Node.js, Express, MongoDB, Angular)  
 - Self-learning and enhancing skills in Node.js and backend development
 
 ---
