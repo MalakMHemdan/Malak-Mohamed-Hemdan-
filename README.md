@@ -1,6 +1,6 @@
- # 👋 Hi, I'm Malak Mohamed 
+ # 👩🏻‍💻 Malak Mohamed 
 
-### 👩🏻‍💻 Backend Developer | CS Student @ Helwan University
+### Backend Developer | CS Student @ Helwan University
 
 I'm a Computer Science student in the Software Engineering department, passionate about backend development, databases, and building real-world systems. I enjoy designing scalable APIs, working with distributed systems, and solving backend challenges using clean architecture.
 
