@@ -16,7 +16,7 @@ Currently expanding my skills in AI and cloud computing, with a focus on integra
 - **Real-Time & Auth:** SignalR, WebSocket, JWT Auth  
 - **Databases & Caching:** SQL Server, PostgreSQL, MongoDB, Redis, Cassandra, Neo4j  
 - **Data & BI Tools:** SSIS, Power BI  
-- **Tools & Platforms:** Git, Postman, Swagger, GitHub, VS Code  
+- **Tools & Platforms:** Git, Postman, Swagger, GitHub, VS Code, jira, azure 
 - **Core Concepts:** REST APIs, OOP, MVC, Real-Time Communication, Caching, Data Structures
 
 ---
